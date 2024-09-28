@@ -1,5 +1,5 @@
 # 💫 About Me:
-Future Software Engineer / Frontend developer<br>
+<br>
 
 
 ## 🌐 Socials:
