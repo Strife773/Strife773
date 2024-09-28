@@ -1,4 +1,4 @@
-# 💫 HALLOOOO!!!:
+# 💫 HALLOOOO!!!
 <br>
 
 # 💻 Tech Stack:
